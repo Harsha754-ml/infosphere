@@ -1,0 +1,7 @@
+{
+  "name": "InfoSphere",
+  "description": "A premium, region-locked intelligence hub for Tech, AI, and Career updates. Experience news with depth and verified reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
